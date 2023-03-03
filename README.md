@@ -11,6 +11,7 @@ This Node.js script scrapes public proxies from multiple sources and saves them 
 To run the script, first make sure you have Node.js installed on your system. Then clone or download this repository, navigate to the project directory in your terminal, and run the following commands:
 
 npm install
+
 node index.js
 
 
